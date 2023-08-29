@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:diegoc29/goit-js-hw-08.git"
+    "url": "https://github.com/diegoc29/goit-js-hw-08.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "git@github.com:diegoc29/goit-js-hw-08.git"
+    "url": "https://github.com/diegoc29/goit-js-hw-08.git"
   },
   "dependencies": {
     "@vimeo/player": "^2.20.1",
